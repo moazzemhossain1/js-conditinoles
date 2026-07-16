@@ -36,3 +36,20 @@ if(age1>=25){
 }else{
     console.log("your are not eligible to voat.")
 }
+
+
+
+
+
+const x=2000;
+const y=2000;
+if(x!==y){
+    const z=x+y;
+    console.log("The tottle vale is:" +z);
+}else{
+    console.log("The valeoue is note realle")
+}
+
+
+
+
